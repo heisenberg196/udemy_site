@@ -8,3 +8,4 @@ cd .. : back
 ls : list of files 
 git config --list : configuration including usernames and emails
 ls -la : hiden files 
+git diff : shows difference between file in repository and file in system
