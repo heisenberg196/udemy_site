@@ -1,3 +1,4 @@
+// Jatin git Tutorial
 pwd : current directory
 cd : open directory
 git add . : add changes
