@@ -1,0 +1,9 @@
+pwd : current directory
+cd : open directory
+git add . : add changes
+git commit -m"message" : commit changes 
+git log : about update history 
+cd .. : back
+ls : list of files 
+git config --list : configuration including usernames and emails
+ls -la : hiden files 
